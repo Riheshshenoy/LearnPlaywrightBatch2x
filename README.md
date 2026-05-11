@@ -18,6 +18,16 @@ LearnPlayWrightBatch2X/
 │   ├── 07_Identifier_Part2.js
 │   ├── 08_Comments.js
 │   └── VS_Code_keyboard_Shortcut_Windows.md
+├── chapter_04_Javascript_Concepts/     # Variables, scope, and hoisting
+│   ├── 09_var_let_const.js
+│   ├── 10_functions.js
+│   ├── 11_var_explained.js
+│   ├── 12_let_people_love.js
+│   ├── 13_const_explained.js
+│   ├── 14_var_funtionscope.js
+│   ├── 15.let_scope.js
+│   ├── 16.Hoisting.js
+│   └── 17_hosting_functions.js
 ├── .gitignore
 ├── package.json
 └── README.md
@@ -28,6 +38,7 @@ LearnPlayWrightBatch2X/
 - **Chapter 1 — Basics**: Introduction to JavaScript, environment setup verification, and basic syntax.
 - **Chapter 2 — JavaScript Concepts**: Core programming concepts and fundamentals.
 - **Chapter 3 — Identifiers & Literals**: Naming rules, literals, comments, and a handy VS Code shortcuts reference for Windows.
+- **Chapter 4 — Variables, Scope & Hoisting**: `var`, `let`, `const`, function scope, block scope, and hoisting behavior.
 
 ## Getting Started
 
