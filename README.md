@@ -107,6 +107,37 @@ LearnPlayWrightBatch2X/
 │   ├── 91_Transform_arrays.js
 │   ├── 92_Arrays.js
 │   └── 93_Arrays_slicing.js
+├── chapter_12_Functions/               # Function types, arrow functions, IIFE, closures, and higher-order functions
+│   ├── 96_.js
+│   ├── 97_Fn_Type1_Basic_Function.js
+│   ├── 98_Fn_Type2_with_Argument_No_returntype.js
+│   ├── 99_Fn_Type3_Without_Argument_With_Return_Type.js
+│   ├── 100_Fn_Type4_With_Arguement_With_Return_type.js
+│   ├── 101_Template_iterals.js
+│   ├── 102_Fn_Expression.js
+│   ├── 103_Arrow_Fn.js
+│   ├── 104_Arrow_Function_RealTime.js
+│   ├── 105_IIFE.js
+│   ├── 106_Default_Param_Fn.js
+│   ├── 107_IQ.ja
+│   ├── 108_Rest_Faram_Fn.js
+│   ├── 109_IQ.js
+│   ├── 110_Spread_IQ.js
+│   ├── 111_Scope_FN.js
+│   ├── 112_IQ.js
+│   ├── 113_closure.js
+│   ├── 114_clousure.js
+│   ├── 115_API_Real_Closure_Example.js
+│   ├── 116_Higher_Order_Fn.js
+│   └── 117_Pure_Fn.js
+├── chapter_13_Strings/                 # String properties, methods, transformations, and searching
+│   ├── 118.string.js
+│   ├── 119.String_Properties.js
+│   ├── 120_Seacrch_Check_str.js
+│   ├── 121_substring.js
+│   ├── 122_Transform_String.js
+│   ├── 123_String_Conversion.js
+│   └── javascript_stringcheatsheet.md
 ├── 01Task/                             # Daily practice tasks and mini exercises
 │   ├── May18/
 │   └── May20/
@@ -128,6 +159,8 @@ LearnPlayWrightBatch2X/
 - **Chapter 9 — User Input**: Reading user input with Node.js `readline` and `prompt-sync`.
 - **Chapter 10 — Loops**: `for`, `while`, `do-while`, `for-of`, `for-in` loops, and IQ exercises.
 - **Chapter 11 — Arrays**: Creating arrays, accessing elements, adding/removing items, searching, iterating, transforming, and slicing arrays.
+- **Chapter 12 — Functions**: Function types (basic, with arguments, with return types), arrow functions, IIFE, default/rest parameters, scope, closures, higher-order functions, and pure functions.
+- **Chapter 13 — Strings**: String properties, searching and checking methods, substring extraction, transformations (uppercase, lowercase, trim, replace), and conversions.
 - **01Task**: Daily practice tasks and mini exercises for reinforcing concepts.
 
 ## Getting Started
@@ -151,9 +184,10 @@ You can run any exercise file directly with Node.js:
 node chapter_01_Basics/01_Basics.js
 ```
 
-## VS Code Shortcuts
+## Cheat Sheets & References
 
-A quick reference for Windows shortcuts is available in [chapter_03_Identifier_Literals/VS_Code_keyboard_Shortcut_Windows.md](chapter_03_Identifier_Literals/VS_Code_keyboard_Shortcut_Windows.md).
+- **JavaScript String Methods Cheat Sheet** — available in [chapter_13_Strings/javascript_stringcheatsheet.md](chapter_13_Strings/javascript_stringcheatsheet.md)
+- **VS Code Windows Shortcuts** — available in [chapter_03_Identifier_Literals/VS_Code_keyboard_Shortcut_Windows.md](chapter_03_Identifier_Literals/VS_Code_keyboard_Shortcut_Windows.md)
 
 ## Dependencies
 
